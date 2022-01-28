@@ -1,12 +1,29 @@
-<<<<<<< HEAD
 # Challenge1
 
 Analysis using Microsoft Excel
 
-=======
-# Challenge1
-
-Analysis using Microsoft Excel
-
->>>>>>> 948a23efccdb350439662935496bb1b5639890ea
 Due 02/06
+
+# Kickstarting with Excel
+
+## Overview of Project
+
+### Purpose
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
