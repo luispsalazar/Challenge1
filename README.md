@@ -1,10 +1,4 @@
-# Challenge1
-
-Analysis using Microsoft Excel
-
-Due 02/06
-
-# Kickstarting with Excel
+#  Kickstarting with Excel (challenge # 1)
 
 ## Overview of Project
 
